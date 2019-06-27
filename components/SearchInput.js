@@ -5,7 +5,6 @@ import React, {Component} from 'react';
 import {StyleSheet, TextInput, View} from 'react-native';
 
 export default class SearchInput extends Component{
-
     constructor(props){
         super(props);
         this.state = {

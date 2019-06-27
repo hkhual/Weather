@@ -15,6 +15,7 @@ import { Platform,
   View,
 } from 'react-native';
 
+
 import getImageForWeather from './utils/getImageForWeather';
 
 //import searchinput int app (parent element)
